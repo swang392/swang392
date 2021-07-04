@@ -1,5 +1,5 @@
 ## Hello! 
-- 👋 I’m Sarah Wang, a rising sophomore at Yale University studying Computer Science and English.
+- 👋 I’m Sarah, a rising sophomore at Yale University studying Computer Science and English.
 - 🌱 I’m currently learning iOS development at Facebook.
 - 👀 I’m interested in finance, computer science, education, and all sorts of podcasts.
 - 📫 You can reach me at sarah.wang@yale.edu!
