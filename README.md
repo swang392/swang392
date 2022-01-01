@@ -1,5 +1,5 @@
 ## Hello! 
-- 👋 I’m Sarah, a sophomore at Yale University studying Computer Science and English.
+- 👋 I’m Sarah, a sophomore at Yale University studying Computer Science.
 - 👀 I’m interested in finance, computer science, education, and all sorts of podcasts.
 - 📫 You can reach me at sarah.wang@yale.edu!
 
