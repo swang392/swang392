@@ -1,6 +1,6 @@
 ## Hello! 
-- 👋 I’m Sarah, a junior at Yale University studying Computer Science.
-- 👀 I’m interested in finance, computer science, education, and all sorts of podcasts.
+- 👋 I’m Sarah, a senior at Yale University studying Computer Science.
+- 👀 I like infra, education, dancing, computational game theory, and all sorts of books.
 - 📫 You can reach me at sarah.wang@yale.edu!
 
 <!---
